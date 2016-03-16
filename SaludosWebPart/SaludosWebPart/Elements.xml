@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="SaludosWebPart" List="113" Url="_catalogs/wp">
+    <File Path="SaludosWebPart\SaludosWebPart.webpart" Url="SaludosWebPart_SaludosWebPart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+      <Property Name="Group" Value="Fran Web Parts" />
+    </File>
+  </Module>
+</Elements>
